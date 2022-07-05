@@ -14,8 +14,6 @@
  *= require_self
  */
 
-
-
 body{
   background-color: #fff;
   color: #333;
@@ -46,4 +44,8 @@ a{
 
 th {
   padding-bottom: 5px;
+}
+
+#message{
+  color: green;
 }
